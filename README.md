@@ -1,6 +1,8 @@
 # RATIONALE #
 
-This document describes the steps done to get IMHICIHU's hardware database
+* Mostly done to check, verify and collect the hardware that belongs to the institution. 
+* It was the first strategy deployed years ago. 
+* This repository leverage this other repo: https://bitbucket.org/imhicihu/databases-repositories
 ![hardware_database.png](https://bitbucket.org/repo/8zz7794/images/1191514673-hardware_database.png)
 
 ### What is this repository for? ###
