@@ -9,8 +9,6 @@
 
 * Quick summary
 	- Creation of hardware database with open-source tools
-* Version
-	- 1.0
 
 ### How do I get set up? ###
 
